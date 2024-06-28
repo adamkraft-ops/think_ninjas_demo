@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554143801028",
+    "project_id": "think-ninjas-app",
+    "storage_bucket": "think-ninjas-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554143801028:android:b670412646dfe985183391",
+        "android_client_info": {
+          "package_name": "com.thinkninjas.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCdEau6roFmyPV4mchSog-UjaY9YPqlAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

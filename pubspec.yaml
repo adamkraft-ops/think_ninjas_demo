@@ -1,0 +1,30 @@
+name: think_ninjas_app
+description: "A demo project for the Think Ninjas Team"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.1.1
+  cupertino_icons: ^1.0.6
+  cloud_firestore: ^5.0.2
+  responsive_builder: ^0.7.0
+  animated_widgets: ^1.1.0
+  google_fonts: ^6.2.1
+  firebase_database: ^11.0.2
+  logger: ^2.3.0
+  uuid: ^4.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
